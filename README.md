@@ -4,10 +4,11 @@ Build Audio Asset Bundle For All Audio In Asset or Selected audio
 
 <hr>
 
-Begin: 
-Truy cập vào: https://aivoicegenerator.com/ để tạo voice AI (Chọn Language, Voice -> Nhập Text -> Nhấn Tạo -> Download)
+Begin: Truy cập vào: https://aivoicegenerator.com/ để tạo voice AI
 
-Note: Text có thể trong server
+- Chọn Language, Voice -> Nhập Text -> Nhấn Tạo -> Download
+
+- Text có thể trong server
 
 <hr>
 
