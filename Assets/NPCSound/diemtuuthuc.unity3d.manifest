@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4075984152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f85cd4eee8889f716269d5ebd11b1b7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f85cd4eee8889f716269d5ebd11b1b7e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NPC_Sound/DiemTuuThuc.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3049298266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0dfc55edbee762346cec8a5015c62be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0dfc55edbee762346cec8a5015c62be
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NPC_Sound/ThuKho.mp3
+Dependencies: []

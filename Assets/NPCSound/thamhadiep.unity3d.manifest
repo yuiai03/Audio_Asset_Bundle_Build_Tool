@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2622156942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82e565fc1545b715632e0b49cb0a7dd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 82e565fc1545b715632e0b49cb0a7dd3
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NPC_Sound/ThamHaDiep.mp3
+Dependencies: []
